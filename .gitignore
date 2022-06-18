@@ -144,9 +144,3 @@ idea
 
 prod_settings.py
 
-**/migrations/**
-!**/migrations
-!**/migrations/__init__.py
-*backend/*/migrations/*
-!*backend/*/migrations
-!*backend/*/migrations/__init__.py
